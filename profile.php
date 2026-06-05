@@ -13,32 +13,6 @@
                 <td><a href="contact.php">Contact</a></td>
                 <td><a href="mahasiswa.php">Data Mahasiswa</a></td>
             </tr>
-        </table>
-        <hr>
 
-        <table>
-            <tr>
-                <td>1,1</td>
-                <td>1,2</td>
-                <td>1,3</td>
-                <td>1,4</td>
-            </tr>
-            <tr>
-                <td>2,1</td>
-                <td colspan="2" rowspan="2" class="center-cell">?</td>
-                <td>2,4</td>
-
-            </tr>
-            <tr>
-                <td>3,1</td>
-                <td>3,4</td>
-            </tr>
-            <tr>
-                <td>4,1</td>
-                <td>4,2</td>
-                <td>4,3</td>
-                <td>4,4</td>
-            </tr>
-        </table>
 </body>
 </html>
